@@ -1,0 +1,6 @@
+services:
+  api:
+    restart: always
+    build: ./Dash
+    ports:
+      - "7000:8070"
