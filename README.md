@@ -15,7 +15,7 @@ $ docker-compose up --build -d
 docker-compose stop
 ```
 
-# Kill Service
+## To kill the Service
 ```
 kill -9 $(lsof -ti :8070)
 ```
