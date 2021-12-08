@@ -4,7 +4,7 @@
 Clone this Dash-based app package. Change directory - in command line - to this package downloaded.
 
 Execute command in order to build docker image for this app. 
-# Note: here it's assumed that you already have your docker installed.
+#### Note: here it's assumed that you already have your docker installed.
 
 ```
 $ docker-compose up --build -d
